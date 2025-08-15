@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "ostream": "cpp",
+    "compare": "cpp",
+    "format": "cpp",
+    "limits": "cpp",
+    "optional": "cpp",
+    "type_traits": "cpp",
+    "new": "cpp"
+  }
+}
