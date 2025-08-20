@@ -52,6 +52,7 @@
     "typeinfo": "cpp",
     "variant": "cpp",
     "fstream": "cpp",
-    "list": "cpp"
+    "list": "cpp",
+    "set": "cpp"
   }
 }
