@@ -53,6 +53,7 @@
     "variant": "cpp",
     "fstream": "cpp",
     "list": "cpp",
-    "set": "cpp"
+    "set": "cpp",
+    "map": "cpp"
   }
 }
